@@ -1,0 +1,11 @@
+com\Ciclo4_reto2\reto2_8bits\Repository\UserRepositorio.class
+com\Ciclo4_reto2\reto2_8bits\ControllerWeb\UserController.class
+com\Ciclo4_reto2\reto2_8bits\Service\UserService.class
+com\Ciclo4_reto2\reto2_8bits\Reto28bitsApplication.class
+com\Ciclo4_reto2\reto2_8bits\interfaz\UserInterface.class
+com\Ciclo4_reto2\reto2_8bits\Model\User.class
+com\Ciclo4_reto2\reto2_8bits\Repository\LaptopsRepositorio.class
+com\Ciclo4_reto2\reto2_8bits\Service\LaptopsService.class
+com\Ciclo4_reto2\reto2_8bits\ControllerWeb\LaptopsController.class
+com\Ciclo4_reto2\reto2_8bits\interfaz\LaptopsInterface.class
+com\Ciclo4_reto2\reto2_8bits\Model\Laptops.class
